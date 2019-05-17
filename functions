@@ -1,7 +1,0 @@
-function doNothing(){}
-
-funtion sayHello()
-{
-  console.log('Hello!')
-}
-  
